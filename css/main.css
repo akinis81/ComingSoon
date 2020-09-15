@@ -5,7 +5,7 @@
 
 .hero-bg{
     background-image: url(../img/hero.webp);
-    /* background-repeat: no-repeat; */
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
 }
