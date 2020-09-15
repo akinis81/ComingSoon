@@ -14,44 +14,44 @@
     display: inline-block;
     width: 100%;
     /* background-color: #fff; */
-}
+    padding-top: 60px;
+    padding-bottom: 60px;
+    }
 
     .hero-row{
         display: inline-block;
         width: 600px;
         margin-left: calc((100% - 600px) / 2);
-padding-top: 60px;
-padding-bottom: 60px;
 
     }
     .row{
         display: inline-block;
-        width: 1000;
+        width: 1000px;
         margin-left: calc((100% - 1000px) / 2);
 
     }
         .left-column{
             display: inline-block;
             width: 50%;
-            background-color: yellow;
+            /* background-color: yellow; */
             float: left;
         }
         .right-column{
             display: inline-block;
             width: 40%;
-            background-color: grey;
+            /* background-color: grey; */
             float: right;
         }
         .social{
             display: inline-block;
             width: 100%;
             border-bottom: 1px solid white;
-            background-color: white;
+            /* background-color: white; */
         }
         .footer-texts{
             display: inline-block;
             width: 600px;
             margin-left: calc((100% - 600px) / 2);
-            background-color: violet;
+            /* background-color: violet; */
 
         }
